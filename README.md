@@ -20,7 +20,7 @@ Todos os assets utilizados são gratuitos, sendo estes disponibilizados pelos si
 - C#
 
 ## Engine
-- Unity
+- Unity 2D
 
 # Autor
 
